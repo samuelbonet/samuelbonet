@@ -6,7 +6,7 @@
 ### <div align="center">Soy Samuel, un estudiante de desarrollo de aplicaciones web,en esta página iré subiendo mis proyectos 🚀</div>  
   
 
-- 🔭 I’m currently working on [Buddy,Push!](https://globalgamejam.org/2022/games/buddy-push-7)  
+- 🔭 I’m currently working on el desarrollo web del videojuego  [Buddy,Push!](https://globalgamejam.org/2022/games/buddy-push-7)  
   
 
 - 🌱Actualmente estoy aprendiendo tecnología artificial y asistentes virtuales  
@@ -49,5 +49,19 @@
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/samuelbonet" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/samuel-bonet-034aa6243/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
 <br/>  
