@@ -19,7 +19,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -52,7 +51,7 @@
 </td></tr></table>  
 
 <br/>  
-
+ <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 ## Connect with me  
 <div align="center">
