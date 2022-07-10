@@ -52,7 +52,7 @@
 </td></tr></table>  
 
 <br/>  
-[![captura.png](https://i.postimg.cc/t4pdqqQK/captura.png)](https://postimg.cc/1f7VMZzB)
+
 
 ## Connect with me  
 <div align="center">
