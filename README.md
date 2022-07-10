@@ -29,6 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 </div>
 
+
 </td><td valign="top" width="33%">
 
 
@@ -51,7 +52,7 @@
 </td></tr></table>  
 
 <br/>  
-
+[![captura.png](https://i.postimg.cc/t4pdqqQK/captura.png)](https://postimg.cc/1f7VMZzB)
 
 ## Connect with me  
 <div align="center">
