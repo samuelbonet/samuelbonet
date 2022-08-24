@@ -56,14 +56,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/samuelbonet" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/samuel-bonet-034aa6243/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
   <a href="https://linkedin.com/in/samuel-bonet-034aa6243/"><img src="https://img.shields.io/badge/-Samuel%20Bonet%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><a 
+<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
 
 </div>  
     <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
