@@ -61,7 +61,9 @@
 <a href="https://linkedin.com/in/samuel-bonet-034aa6243/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
-  
+    <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+
 
 <br/>  
