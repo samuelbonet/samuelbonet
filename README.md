@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">Soy Samuel, un estudiante de desarrollo de aplicaciones web,en esta página iré subiendo mis proyectos 🚀</div>  
+### <div align="center">Soy Samuel, un estudiante de desarrollo de aplicaciones web,en esta página iré subiendo mis proyectos 🚀</div>  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
   
 
 - 🔭 I’m currently working on el desarrollo web del videojuego  [Buddy,Push!](https://globalgamejam.org/2022/games/buddy-push-7)  
@@ -16,7 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <table><tr><td valign="top" width="33%">
 
 
@@ -35,7 +35,8 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center"> 
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
@@ -54,7 +55,7 @@
 <br/>  
  <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-## Connect with me  
+## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="center">
 
   <a href="https://linkedin.com/in/samuel-bonet-034aa6243/"><img src="https://img.shields.io/badge/-Samuel%20Bonet%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
