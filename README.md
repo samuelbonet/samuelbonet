@@ -61,13 +61,16 @@
 <a href="https://linkedin.com/in/samuel-bonet-034aa6243/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 
 </div>  
     <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
-    
+    <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 
 <br/>  
