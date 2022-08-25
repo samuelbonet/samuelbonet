@@ -4,7 +4,7 @@
 </div>  
   
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## &nbsp;***About me*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
 * I am interested in Web designing and Web development.
