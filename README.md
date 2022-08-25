@@ -4,13 +4,17 @@
 </div>  
   
 
-### <div align="center">Soy Samuel, un estudiante de desarrollo de aplicaciones web,en esta página iré subiendo mis proyectos 🚀</div>  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on el desarrollo web del videojuego  [Buddy,Push!](https://globalgamejam.org/2022/games/buddy-push-7)  
+I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
+* I am interested in Web designing and Web development.
+- 🌱 I’m currently learning ...
+  - Python
   
-
-- 🌱Actualmente estoy aprendiendo tecnología artificial y asistentes virtuales  
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help!!!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="samuelbonetweb@gmail.com">samuelbonetweb@gmail.com</a>
   
 
 <br/>  
