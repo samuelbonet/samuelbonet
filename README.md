@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Samuel Bonet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github;"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=You're+welcome!;"></a>
 </p>
 </p>
   
