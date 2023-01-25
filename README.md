@@ -6,7 +6,8 @@
 </p>
   
 
-## &nbsp;***About me*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+
+## &nbsp;***About me*** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
 
 I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
 * I am interested in Web designing and Web development.
@@ -87,10 +88,9 @@ I am a web application development student.  I love to learn and build something
 <a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
 
 </div>  
-    <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
 <br/>  
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <br/>  
