@@ -12,7 +12,7 @@
 I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
 * I am interested in Web designing and Web development.
 - 🌱 I’m currently learning ...
-  - Python
+  - Laravel
   
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!!!😉<br>
