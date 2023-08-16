@@ -14,7 +14,7 @@ I am a web application development student.  I love to learn and build something
   - Laravel
   - Php
   
-- 👯 I’m looking forward to collaborate on open source projects.
+- 🤝 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!!!😉<br>
 - In my free time, I like  ✏  do skecthing, 🎵 listen to music, and  ​📺​ watch TV series
 - 📫 Reach out to me at: <a href="samuelbonetweb@gmail.com"> samuelbonetweb@gmail.com</a>
@@ -37,49 +37,48 @@ I am a web application development student.  I love to learn and build something
 <p  align="center">
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  </p>
-  <p align="center">
-     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-&nbsp;
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-&nbsp;
 
-</p>
-<p  align="center">
+
+
+
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+
 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
- &nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- &nbsp;
-  </p>
 
-  <p  align="center">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ 
+
+
+
 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  
-   &nbsp;
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
-  &nbsp;
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-   &nbsp;
 
- </p>
-<p align="center">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
+
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+
+
+
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-&nbsp;
+
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-&nbsp;
 
 
-</p>
- <p  align="center">
+
+
+
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-&nbsp;
+
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-&nbsp;
-  
+
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
