@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Samuel Bonet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Samuel Bonet  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=You're+welcome!;"></a>
@@ -6,13 +6,13 @@
 </p>
   
 
-
 ## &nbsp;***About me*** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
 
 I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
-* I am interested in Web designing and Web development.
+
 - 🌱 I’m currently learning ...
   - Laravel
+  - Php
   
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!!!😉<br>
