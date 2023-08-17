@@ -24,8 +24,10 @@ I am a web application development student.  I love to learn and build something
 
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=samuelbonet&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbonet&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=samuelbonet&show_icons=true&theme=tokyonight"/>
+
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbonet&theme=tokyonight" />
+ 
 </p>
 
 ## My Skill Set  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
