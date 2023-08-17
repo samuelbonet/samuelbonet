@@ -93,8 +93,8 @@ I am a web application development student.  I love to learn and build something
 ## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="center">
 
-  <a href="https://linkedin.com/in/samuel-bonet-034aa6243/"><img src="https://img.shields.io/badge/-Samuel%20Bonet%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/-samuelbonetweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+  <a href="https://linkedin.com/in/samuel-bonet-034aa6243/"><img src="https://img.shields.io/badge/Samuel Bonet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/samuelbonetweb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 </div>  
 
