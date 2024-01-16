@@ -11,8 +11,8 @@
 I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
-  - Laravel
-  - Php
+  - Angular
+  - NestJS
   
 - 🤝 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!!!😉<br>
