@@ -8,7 +8,7 @@
 
 ## &nbsp;***About me*** <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
 
-I am a web application development student.  I love to learn and build something new, productive, innovative and creative.
+I am a web application development.  I love to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
   - Angular
