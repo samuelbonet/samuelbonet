@@ -90,9 +90,8 @@ I am a web application development.  I love to learn and build something new, pr
 
 
 
-<br>
+<br> 
 <br/>  
- <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 ## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="center">
@@ -101,5 +100,7 @@ I am a web application development.  I love to learn and build something new, pr
 <a href="mailto:samuelbonetweb@gmail.com"><img src="https://img.shields.io/badge/samuelbonetweb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 </div>  
+ <img align="right" alt="Notebook and coffe" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
 
 
