@@ -46,7 +46,8 @@ I am a web application developer. I love to learn and build something new, produ
 
 ## Certifications
 
-[![Logotipo de Cognitive Class](https://i.postimg.cc/kgJqRmRt/05zimxu4vatruaji64hxo887dcn0.png)](https://courses.cognitiveclass.ai/certificates/4fcf759c35714cd19ee15877863ce9f0)
+[![badge](https://i.postimg.cc/kX771fCJ/file.png)](https://www.credly.com/badges/1c63def7-ca20-476b-b188-c0927bf2c6b7)
+[![badge](https://i.postimg.cc/25LYbtQw/file-1.png)](https://www.credly.com/earner/earned/badge/36f75430-dbcf-40df-8fb9-a4e4fca4b53d)
 
 <br/>
 
