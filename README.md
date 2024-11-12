@@ -45,7 +45,7 @@ I am a web application developer. I love to learn and build something new, produ
 <br>
 
 ## Certifications
-[![image-1.png](https://i.postimg.cc/br4hLLmg/image-1.png)](https://postimg.cc/T5jF3jM5)
+[![image-1-1.png](https://i.postimg.cc/C1jP97MJ/image-1-1.png)](https://postimg.cc/wyjQmhms)
 [![image-3.png](https://i.postimg.cc/rmFMpDd1/image-3.png)](https://postimg.cc/NyVWJfkF)
 [![badge](https://i.postimg.cc/kX771fCJ/file.png)](https://www.credly.com/badges/1c63def7-ca20-476b-b188-c0927bf2c6b7)
 [![badge](https://i.postimg.cc/25LYbtQw/file-1.png)](https://www.credly.com/earner/earned/badge/36f75430-dbcf-40df-8fb9-a4e4fca4b53d)
