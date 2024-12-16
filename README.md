@@ -10,7 +10,7 @@
 
 I am a web application developer. I love to learn and build something new, productive, innovative, and creative.
 
-- 🌱 I’m currently learning AWS Cloud.
+- 🌱 I’m currently learning AWS Cloud & React.
 - 🤝 I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything; I am happy to help! 😉
 - In my free time, I like to ✏ do sketching, 🎵 listen to music, and 📺 watch TV series.
