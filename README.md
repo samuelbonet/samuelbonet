@@ -10,7 +10,7 @@
 
 I am a web application developer. I love to learn and build something new, productive, innovative, and creative.
 
-- 🌱 I’m currently learning AWS Cloud & React.
+- 🌱 I’m currently learning AWS Cloud & Astro.
 - 🤝 I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything; I am happy to help! 😉
 - In my free time, I like to ✏ do sketching, 🎵 listen to music, and 📺 watch TV series.
@@ -52,7 +52,6 @@ I am a web application developer. I love to learn and build something new, produ
 [![badge](https://i.postimg.cc/25LYbtQw/file-1.png)](https://www.credly.com/badges/36f75430-dbcf-40df-8fb9-a4e4fca4b53d/public_url)
 [![image-1-1.png](https://i.postimg.cc/C1jP97MJ/image-1-1.png)](https://www.credly.com/badges/a5c55579-f7bb-4275-8fc7-aa350b6edd88/linked_in_profile)
 
-<br/>
 <br/>
 
 <div>
