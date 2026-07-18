@@ -10,18 +10,13 @@
 
 I am a web application developer. I love to learn and build something new, productive, innovative, and creative.
 
-- 🌱 I am currently studying LPIC-1 Linux Certification.
+- 🌱 I am currently studying AB-900: Microsoft 365 Copilot and Agent Administration Fundamentals.
 - 🤝 I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything; I am happy to help! 😉
 - In my free time, I like to ✏ do sketching, 🎵 listen to music, and 📺 watch TV series.
 - 📫 Reach out to me at: <a href="mailto:samuelbonetweb@gmail.com">samuelbonetweb@gmail.com</a>
 
 <br/>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelbonet&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbonet&theme=tokyonight" />
-</p>
 
 ## ***My Skill Set***
 
