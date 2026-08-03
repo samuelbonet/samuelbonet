@@ -37,6 +37,10 @@ I am a web application developer. I love to learn and build something new, produ
 
 <img src="https://img.shields.io/badge/Middleware-000000?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/BBDD NoSQL-1976D2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Virtualizados-FF6F00?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge">
