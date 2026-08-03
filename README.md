@@ -27,8 +27,6 @@ I am a web application developer. I love to learn and build something new, produ
 
 <img src="https://img.shields.io/badge/Genesys%20Cloud-8A2BE2?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/VDC-0066CC?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/VDC%20Platform-00599C?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Backup-2E7D32?style=for-the-badge">
