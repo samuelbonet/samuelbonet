@@ -10,7 +10,7 @@
 
 I am a web application developer. I love to learn and build something new, productive, innovative, and creative.
 
-- 🌱 I am currently studying AB-900: Microsoft 365 Copilot and Agent Administration Fundamentals.
+- 🌱 I am currently between projects and using this time to learn, upskill, and explore new technologies.
 - 🤝 I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything; I am happy to help! 😉
 - In my free time, I like to ✏ do sketching, 🎵 listen to music, and 📺 watch TV series.
