@@ -56,6 +56,7 @@ I am a web application developer. I love to learn and build something new, produ
 ## ***Certifications***
 <br>
 
+[<img src="https://i.postimg.cc/L8sDD6Zn/MS900-badge-preview.png" width="110">)](https://www.credly.com/badges/207090fc-9139-4b40-a487-9adce679bff2/linked_in?t=tlr64g)
 [<img src="https://i.postimg.cc/d1nb5ktr/azure-ai-fundamentals-600x600.png" width="110">](https://www.credly.com/badges/fa917d84-9361-4763-9ae0-99609cc6172b/linked_in_profile)
 [<img src="https://i.postimg.cc/5t81S2CG/blob-(1).png" width="110">](https://www.credly.com/badges/d72ed763-1a4c-4181-8297-2256cbf07152)
 [<img src="https://i.postimg.cc/c1BCNXr4/twitter-thumb-201604-blob.png" width="110">](https://www.credly.com/badges/43ed1664-e7ca-4b60-8aaa-1380600282eb)
